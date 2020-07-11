@@ -1,5 +1,7 @@
 package es.ingenia.spring.mvc;
 
+
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -11,5 +13,7 @@ public class Controlador {
 		
 		return "PaginaEjemplo";
 	}
+	
+	
 
 }
